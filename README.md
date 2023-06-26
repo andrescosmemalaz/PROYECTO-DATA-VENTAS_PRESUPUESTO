@@ -8,8 +8,11 @@ Análisis de Ventas de Productos y Presupuesto de Ventas para los Años 2017-202
 Aquí te dejamos algunos insights interesantes que podrás descubrir a través de este análisis:
 
 1️⃣ Tendencias de Ventas: Al rastrear las ventas de los productos a lo largo del tiempo, podrás ver cuáles son los más vendidos y cómo han cambiado las preferencias de los clientes a lo largo de los años.
+
 ![image](https://github.com/andrescosmemalaz/PROYECTO-DATA-VENTAS_PRESUPUESTO/assets/57787417/ec9dce9b-aa49-4db4-9a53-34a09f4094f3)
+
 ![image](https://github.com/andrescosmemalaz/PROYECTO-DATA-VENTAS_PRESUPUESTO/assets/57787417/a52d04fc-f820-4736-a294-08d688039a61)
+
 2️⃣ Desempeño de la Marca: Este análisis también te permitirá entender cómo cada una de nuestras marcas ha rendido en términos de ventas.
 
 3️⃣ Predicciones de Ventas: A través de nuestro análisis de presupuesto de ventas, podrás prever las ventas futuras en base al rendimiento de años anteriores, lo que te permitirá hacer ajustes estratégicos a tiempo.
